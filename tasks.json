@@ -1,0 +1,23 @@
+[
+  {
+    "action": "like",
+    "tweetUrl": "https://x.com/iam_smx/status/1953102154916418022"
+  },
+  {
+    "action": "retweet",
+    "tweetUrl": "https://x.com/iam_smx/status/1953102154916418022"
+  },
+  {
+    "action": "follow",
+    "username": "iam_smx"
+  },
+  {
+    "action": "tweet",
+    "text": "Public kaise hoo?"
+  },
+  {
+    "action": "quote",
+    "tweetUrl": "https://x.com/iam_smx/status/1953102154916418022",
+    "text": "Acha vho wlon hain!"
+  }
+]
